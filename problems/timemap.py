@@ -46,9 +46,14 @@ Note:
 
 """
 
+
+
+
+import bisect
 class TimeMap:
 
     def __init__(self):
+        
         self.database = {}
 
     def set(self, key : str, value : str, timestamp: int) -> None:
@@ -59,6 +64,7 @@ class TimeMap:
             self.database[key] = {}
             self.database[key][timestamp] = value
             #self.database[key] = sorted(self.database[key], key=self.database.keys())
+        return None
         
         
     def get(self, key: str, timestamp: int) -> str:
@@ -66,19 +72,28 @@ class TimeMap:
         if key not in self.database:
             return ""
         else:
-            req = -1
-            for i in self.database[key].keys():
-                if i <= timestamp:
-                    req = i
-                else:
-                    break
-            if req == -1:
+            keys = list(self.database[key].keys())
+            if timestamp < keys[0]:
                 return ""
+            req = keys[bisect.bisect_right(keys, timestamp) - 1]
             return self.database[key][req]
 
 
+def driver(commands, inputs):
+    outputs = []
+    commands = commands[1:]
+    inputs = inputs[1:]
+    obj = TimeMap()
+    for i, j in zip(commands, inputs):
+        if i == "set":
+            outputs.append(obj.set(j[0], j[1], j[2]))
+        elif i == "get":
+            outputs.append(obj.get(j[0], j[1]))
+    return outputs
 
 
 obj = TimeMap()
 obj.set("foo", "bar", 1)
-print(obj.get("foo", 1))      
+print(obj.get("foo", 1))
+print(driver(["TimeMap","set","get","get","set","get","get"], 
+            [[],["foo","bar",1],["foo",1],["foo",3],["foo","bar2",4],["foo",4],["foo",5]]))
