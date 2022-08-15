@@ -1,2 +1,1 @@
-string = '  '
-print(len(list(string)))
+print(24//4)
