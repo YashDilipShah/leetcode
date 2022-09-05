@@ -1,0 +1,295 @@
+Amazon’s Leadership Principles
+
+
+Customer Obsession : Leaders start with customer and work backwards. Work hard 
+to keep customer trust. 
+    STAR
+        Situation : When working in internship at Voiceshop, were working with 
+        interactive advertisements. Our project involved working with datasets 
+        including voice datasets. However, when we displayed the final demo,
+        customer told that he needed the advertisements to be in Indian Accent. 
+        Thus, our months work could go in vain, we would be paid, but customer 
+        would have lost his money, and perhaps, lose trust in us. 
+
+        Task : To forego month's worth of hardwork and to deliver new product on 
+        same deadline changing 70% of algorithm. 
+
+        Action : Without wasting time, overworked and deliver the product,
+        albeit with few rough corners and earned customer's trust. 
+
+        Result : Customer stayed in contact even after internship, moreover, Our
+        company signed contract for future. 
+
+Ownership : Leaders are owners. They own. Look at long term value, rather than 
+short term gains. 
+    STAR 
+        Situation : In hackathon, almost at the last moment, our database was 
+        deleted. I wasn't responsible for that and could've just blamed it on 
+        teammate. 
+
+        Task : To recover and simulate our 2 months results in just few hours, 
+        which I could've easily ignored but didn't. 
+
+        Action : Gathered my team and first of all consoled everyone. Then 
+        divided the task and thus, got it done efficiently. 
+
+        Result : We were selected to proceed till the finals, and we were the
+        university winners. 
+
+Invent and Simplify : Leaders expect and require innovations and invention. Look
+for new ideas everywhere and are not limited by anything even if they are 
+misunderstood. 
+    STAR
+        Situation : During one of my Research Assistantship, I was working on a 
+        dataset generation problem where I had to work with Google Translate API. 
+        There, because of some constraints, we were only allowed 400 lines of 
+        translation. 
+
+        Task : To fasten the process of data generation to complete the project
+        faster. 
+
+        Action : What I did was I spent some time tinkering around with the settings
+        and found that if we send new requests every 5 seconds, Google treats them 
+        as separate ones, thus, we were able to send new requests and get our work
+        done. 
+
+        Result : Reduced the dataset generation time by 67% and thus, earned
+        reputation of the professor. 
+
+Are Right, A Lot : Having strong judgements and good instincts. Seek diverse 
+perspectives and work to disconfirm their beliefs. 
+    STAR
+        Situation : During one of my research assistantships, we were working on 
+        task of email classification. Our PI told us to run an algoritm called 
+        Name Entity Recognition on the dataset, believing that it would work. 
+
+        Task : PI told to run an algorithm, that I knew wouldn't work as good as 
+        our current algorithm. 
+
+        Action : I contacted my PI in personal and explained in detail why it wouldn't 
+        work the way we wanted it to. At first, she wasn't very convinced and thus, 
+        wanted to go ahead with the implementation. However, I tried to run that
+        algorithm on a smaller dataset, so less time was wasted and turns out I was
+        correct. It didn't work as intended. 
+
+        Result : Valuable resources and time of our time were saved because I believed
+        in my instincts that the named algorithm won't work. 
+
+Learn and Be Curious : Leaders are never done learning and always keep learning 
+about new opportunities. 
+    STAR    
+        Situation : It was during my final year internship at CJ Enterprise. I had
+        to design and implement a recommendation for our app. Until now, I only had
+        experience in Python and ML and never deployed model using mobile app. 
+
+        Task : To implement my algorithm in a mobile application. 
+
+        Action : There were other members who were designated to deploy the model. 
+        I wouldn't have to pay attention, however, I thought that I can learn how 
+        to deploy models using Flutter. So, after finishin up my work, instead
+        of relaxing, I went down to SDEs, and understood what needed to be done
+        for efficient deployment of algorithm on mobile application. 
+
+        Result : I learnt a skill that I believe will be very useful to me in the
+        future and now I have working knowledge of how to deploy a model on 
+        Flutter based mobile application. 
+
+Hire and Develop the Best : Leaders raise the performance bar with every hire 
+and promotion. They recognize exceptional talent, and willingly move them 
+throughout the organization. Leaders develop leaders and take seriously their 
+role in coaching others. We work on behalf of our people to invent mechanisms 
+for development like Career Choice.
+    STAR 
+        Situation : Towards the end of my internship, I had to transfer over to 
+        new intern replacing me. Company had already selected some of the candidates
+        and I had to shortlist amongst them. 
+
+        Task : To find replacement for me and bring him upto speed. 
+
+        Action : I took the responsibility to train the intern. Moreover, I didn't 
+        compromise on the candidate that he was not only as good as me, but better than 
+        me. I took the responsibility to train him as good as I could and thus 
+        was able to bring the best out of him. 
+
+        Result : The transition was butter smooth and company didn't even lose 
+        a single day in the transition period. 
+
+Insist on Highest Standards : Leaders have relentlessly high standards — many 
+people may think these standards are unreasonably high. Leaders are continually 
+raising the bar and drive their teams to deliver high quality products, services, 
+and processes. Leaders ensure that defects do not get sent down the line and that 
+problems are fixed so they stay fixed.
+    STAR        
+        Situation : During my second internship at CJ Enterprise, we working against
+        the clock to deliver our app on time to the client. However, because of 
+        optimization issues, algorithm was having very high runtime near the deadline. 
+        Our leader said that we can deliver with same algoritm to stay in the deadline
+
+        Task : To deliver the app on time with an optimized algorithm. 
+
+        Action : I could have easily ignored it and could've let it go. However, 
+        I didn't feel it right to deliver subpar quality product to the customer. 
+        So, I stayed alone in the office overnight to discover the bottleneck and 
+        act upon it to improve the efficiency of the algorithm. Moreover, I also 
+        implemented the algorithm in Dart, in which I wasn't very sufficient. 
+
+        Result : We were able to deliver the app that was of the highest standard
+        that we promised to our customer. 
+
+Think Big : Thinking small is a self-fulfilling prophecy. Leaders create and 
+communicate a bold direction that inspires results. They think differently and 
+look around corners for ways to serve customers.
+    STAR
+        Situation : During my internship at Voiceshop, we were supposed to train
+        only a one time model with static dataset. 
+
+        Task : Deliver the product exactly according to the specifications given 
+        by customer knowing that it won't be sustained for longer periods. Or 
+        go overboard with the product without extra pay just to deliver a better
+        product. 
+
+        Action : I chose to go with the latter option of enabling dynamic dataset
+        to train online as new examples come in using the data provided by the 
+        client. Definitely, it was more work and we weren't getting paid for it. 
+        However, I thought big and established a relation with the client. Fast 
+        forward today, that company is our biggest client and I believe it was 
+        because of the product that they got. 
+
+        Result : Earned our company a lifelong client and earned their trust. 
+
+Bias for Action : Speed matters in business. Many decisions and actions are 
+reversible and do not need extensive study. We value calculated risk taking. 
+    STAR
+        Situation : During my research assistantships under Prof Namrata, advisor 
+        wanted to make a crucial change just 3 days before presentation. Prof relied
+        on my discretion on whether it was possible or not. 
+        
+        Task : To somehow generate results pertaining the condition that was not
+        known up until now and deliver presentable results. 
+
+        Action : I understood that implementing the algorithm on whole dataset 
+        would not be possible and won't be necessary either for the presentation. 
+        But implementing that would highly benefit my guide. Thus, I risked and 
+        simulated the algorithm and generated results for cherry picked examples
+        from the dataset. The plan was, if it was approved, we would apply it 
+        on whole dataset and results should be same
+
+        Result : It worked. The committee approved, and once it was approved, we
+        applied the algorithm on whole dataset and the results were the same as 
+        simulated results. Thus, we were able to move forward without wasting any 
+        time. 
+
+Frugality : Accomplish more with less. Constraints breed resourcefulness, 
+self-sufficiency, and invention. There are no extra points for growing headcount, 
+budget size, or fixed expense.
+    STAR
+        Situation : During one of the hackathons, at first we were allowed a team
+        of 6. However, because of covid and restictions, at last moment, teams 
+        were reduced to size of 4. 
+
+        Task : During problem submission, we selected problem according to the team
+        of 6 and divided headcount accordingly. However, after reduction in team 
+        size, we were given option to change our problem statement. 
+
+        Action : We didn't change the problem statement and decided to go through 
+        with it. We initially allocated 2 people for ML Modeling, 2 people for 
+        Website building and 2 for live video processing. However, now, I being the 
+        leader, I took the biggest portion. I alone did the ML Modeling and also 
+        took part in video processing. Thus, we worked 25 hours a day while I ensured 
+        no one lost motivation and delivered the same project in specified timeframe
+        without any corner cutting in less amount of human resources
+
+        Result : I learnt that 6 people were not necessary for the job and sometimes, 
+        Frugality can be rewarding and can teach us better resource management. 
+
+Earn Trust : Leaders listen attentively, speak candidly, and treat others 
+respectfully. They are vocally self-critical, even when doing so is awkward or 
+embarrassing. Leaders do not believe their or their team’s body odor smells of 
+perfume. They benchmark themselves and their teams against the best.
+    STAR
+        Situation : During my last internship at CJ Enterprise, I were to develop
+        a recommendation based algorithm. I was given a month to learn and grasp 
+        the model and the dataset on which I were to work. 
+
+        Task : I tried my best to learn the ins and outs of the problem statement 
+        but I couldn't grasp the whole idea as I didn't work on recommendation 
+        system before that. So, I wasn't able to comprehend the work and was very 
+        embarrassed to admit that in front of my manager. 
+
+        Action : I opened upto him and told him that I wasn't understanding and 
+        I need some more help to grasp the concept. The manager appreciated me 
+        that I didn't beat around the bush and told the truth directly. This way, 
+        I earned his trust that no matter what, I will always be telling the truth. 
+        Moreover, he also gave me some additional time and a mentor was assigned
+        to whom I can direct my queries to. 
+
+        Result : I earned that manager's respect and thus, was able make the best 
+        out of my internship. Moreover, because of my mentor and because I didn't 
+        lie about my expertise, I was able to learn about recommendation system 
+        and was able to efficiently use it during my internship. 
+
+Dive Deep : Leaders operate at all levels, stay connected to the details, audit 
+frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+    STAR
+        Situation : During my internship at Voiceshop, I was working on developing
+        language models for interactive advertisements. At that time, our client
+        wanted to incorporate Indian accent into the model. However, we didn't 
+        have the dataset large enough to train new model for Indian target. 
+
+        Task : To learn more about the algorithm and dive deep into the technical
+        details to tweak the model according to our needs. 
+
+        Action : Without any waste of times, I dived right into the research papers
+        of the model that we implemented and looked at the details that can alter
+        the performance of the model. Moreover, I started writing the model from 
+        scratch alongside with playing with hyperparameters to learn how the 
+        parameters affected the performance. 
+
+        Result : I was able to pinpoint the parameters that improved the performance
+        of the model by almost 30%. For this, I was appreciated by whole team 
+        and also, the client. 
+
+Have Backbone; Disagree and Commit : Leaders are obligated to respectfully challenge
+decisions when they disagree, even when doing so is uncomfortable or exhausting.
+Leaders have conviction and are tenacious. They do not compromise for the sake 
+of social cohesion. Once a decision is determined, they commit wholly. 
+    STAR
+        Situation : During one of my research assistantships, we were working on 
+        task of email classification. My colleague told us to run an algorithm called 
+        Name Entity Recognition on the dataset, believing that it would work. 
+
+        Task : colleague told to run an algorithm, that I knew wouldn't work as good as 
+        our current algorithm. 
+
+        Action : I contacted my colleague in personal and explained in detail why it wouldn't 
+        work the way we wanted it to. At first, she wasn't very convinced and thus, 
+        wanted to go ahead with the implementation. However, I tried to run that
+        algorithm on a smaller dataset, so less time was wasted and turns out I was
+        correct. Thus, when I disagreed with her, instead of belittling her, I made 
+        it a point to show why it wouldn't work and made sure that she understood
+        and while doing all this, I made sure that I wasn't being obnoxious or 
+        condescending. 
+
+        Result : Valuable resources and time of our time were saved because I disagreed 
+        and communicated it well without belittling my colleague thus solving the 
+        issue peacefully and without affecting the timeline. 
+
+Deliver Results : Leaders focus on the key inputs for their business and deliver them 
+with the right quality and in a timely fashion. Despite setbacks, they rise to 
+the occasion and never settle. 
+    STAR        
+        Situation : During my second internship at CJ Enterprise, we working against
+        the clock to deliver our app on time to the client. However, because of 
+        optimization issues, algorithm was having very high runtime near the deadline. 
+        Our leader said that we can deliver with same algoritm to stay in the deadline
+
+        Task : To deliver the app on time with an optimized algorithm. 
+
+        Action : I could have easily ignored it and could've let it go. However, 
+        I didn't feel it right to deliver subpar quality product to the customer. 
+        So, I stayed alone in the office overnight to discover the bottleneck and 
+        act upon it to improve the efficiency of the algorithm. Moreover, I also 
+        implemented the algorithm in Dart, in which I wasn't very sufficient. 
+
+        Result : We were able to deliver the app that was of the highest standard
+        that we promised to our customer.

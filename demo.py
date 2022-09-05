@@ -1,1 +1,2 @@
-print(24//4)
+for i in "split":
+    print(i)
